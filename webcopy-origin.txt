@@ -1,0 +1,228 @@
+Uri: https://goblintown-claims.wtf/
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\index.htm
+Content Type: text/html
+
+Uri: https://goblintown-claims.wtf/i/IMG_1017.jpg
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\IMG_1017.jpg
+Content Type: image/jpeg
+
+Uri: https://goblintown-claims.wtf/style.css?15
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\style.css
+Content Type: text/css
+
+Uri: https://opensea.io/collection/goblintownwtf
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\collection\goblintownwtf.html
+Content Type: text/html
+
+Uri: https://etherscan.io/address/0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\address\0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e.html
+Content Type: text/html
+
+Uri: https://goblintown-claims.wtf/i/GT-fuck-you.jpg
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-fuck-you.jpg
+Content Type: image/jpeg
+
+Uri: https://goblintown-claims.wtf/i/GT-twitter-circle.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-twitter-circle.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-opensea.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-opensea.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-volume-circle.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-volume-circle.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-logo.gif
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-logo.gif
+Content Type: image/gif
+
+Uri: https://goblintown-claims.wtf/i/GT-phone-header-border.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-phone-header-border.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-cage.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-cage.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-body.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-body.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-ears.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-ears.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-head.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-head.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-left-eye.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-left-eye.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-right-eye.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-right-eye.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-mouth.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-mouth.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-garf-nose.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-garf-nose.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-body.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-body.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-ears.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-ears.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-head.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-head.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-left-eye.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-left-eye.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-right-eye.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-right-eye.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-mouth.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-mouth.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-urki-nose.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-urki-nose.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-little1.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-little1.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-little2.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-little2.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-little3.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-little3.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-mountain-light.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-mountain-light.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-mountain.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-mountain.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-safe-descent.gif
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-safe-descent.gif
+Content Type: image/gif
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-0.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-0.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-1.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-1.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-city.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-city.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-2.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-2.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-3.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-3.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-4.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-4.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-5.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-5.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-6.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-6.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-town-layer-7.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-town-layer-7.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/psst.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\psst.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-buttnoses-morer.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-buttnoses-morer.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-rocks-compressed.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-rocks-compressed.png
+Content Type: image/png
+
+Uri: https://unpkg.com/web3@1.2.11/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\web3@1.2.11\dist\web3.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/web3modal@1.9.0/dist/index.js
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\web3modal@1.9.0\dist\index.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@walletconnect/web3-provider@1.7.7/dist/umd/index.min.js
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\@walletconnect\web3-provider@1.7.7\dist\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://goblintown-claims.wtf/assets/script.js
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\assets\script.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/eruda
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\npm\eruda.js
+Content Type: application/javascript
+
+Uri: https://goblintown-claims.wtf/i/GT-phone-bg.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-phone-bg.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-little1-crop.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-little1-crop.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-phone-message-border-better.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-phone-message-border-better.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-little2-crop.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-little2-crop.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-little7-crop.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-little7-crop.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-bubble-detail.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-bubble-detail.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-counter-art.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-counter-art.png
+Content Type: image/png
+
+Uri: https://goblintown-claims.wtf/i/GT-mute-circle.png
+File Name: C:\Downloaded Web Sites\goblintown-claims.wtf\i\GT-mute-circle.png
+Content Type: image/png
+
